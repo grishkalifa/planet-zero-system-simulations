@@ -47,6 +47,9 @@ class PZParams:
     p_override: float = -1.0  # if in [0,1], overrides; if -1 => no override
     p4_max: float = 0.70      # Phase-4 max p (can evolve later with rules)
 
+    rev_growth: float = 0.0
+
+
 
 def r_monthly(r_annual: float) -> float:
     return r_annual / 12.0
