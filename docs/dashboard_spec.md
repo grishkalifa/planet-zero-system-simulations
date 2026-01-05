@@ -1,7 +1,7 @@
 # Dashboard Spec (Phase 1)
 
 ## Inputs (sliders)
-- Horizon: 24 / 60 / 120 months
+- Horizons 6, 12, 18, 24, 60, 120 months
 - A0 (initial active people)
 - C_base (monthly base costs)
 - m (net margin per person per month)
